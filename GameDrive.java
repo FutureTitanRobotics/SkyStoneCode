@@ -14,7 +14,7 @@ import com.qualcomm.robotcore.hardware.DcMotor;
 import com.qualcomm.robotcore.util.ElapsedTime;
 
 @TeleOp(name="TankWheels", group="Linear Opmode")
-@Disabled
+//@Disabled
 public class GameDrive extends LinearOpMode {
 
     // Declare OpMode members.
